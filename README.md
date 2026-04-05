@@ -16,8 +16,10 @@ are Regulatory Hawks, Developing Frameworks, or Regulatory Doves.
 - **13 of 30 countries** have published an AI strategy but built zero enforcement capacity
 - **Brazil (13/16)** outscores the United States (4/16) and United Kingdom (5/16)
 
-## Interactive map
+## Interactive visualisations
 [View interactive choropleth world map →](visualisations/global_ai_regulation_map.html)
+
+[View full Tableau dashboard →](https://public.tableau.com/app/profile/angkuran.dey/viz/Global_AI_Regulation_Divergence_Index/GlobalAIRegulationDivergenceIndex)
 
 ## Methodology
 Binary-to-scaled scoring (0–2) across 8 parameters:
@@ -52,19 +54,18 @@ global-ai-regulation-index/
 └── README.md
 
 ## Tools
-Python (pandas · plotly) · Tableau Public (coming soon) · GitHub
+Python (pandas · plotly) · Tableau Public · GitHub
 
 ## Status
 - [x] Dataset built — 30 countries, 8 parameters, April 2026
 - [x] Python analysis — regional, parameter and cluster findings
 - [x] Interactive choropleth world map — published
 - [x] Jupyter notebook — documented with markdown
-- [ ] Tableau dashboard — in progress
+- [x] Tableau dashboard — published April 2026
 - [ ] LinkedIn post — coming soon
 
 ## About
-Angkuran Dey · Google Data Analytics Professional Certificate (March 2026)
-MSc Gender & International Relations, University of Bristol
+Angkuran Dey · Google Data Analytics Professional Certificate (March 2026)  
+MSc Gender & International Relations, University of Bristol  
 [LinkedIn](https://www.linkedin.com/in/angkurandey/) · 
 [EU AI Act Companion Project](https://github.com/angkuran-dey/eu-ai-act-compliance-tracker)
-
