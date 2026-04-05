@@ -1,7 +1,7 @@
 # Global AI Regulation Divergence Index
 ### Analysing AI regulatory divergence across 30 countries · 8 parameters · April 2026
 
-![World Map Preview](visualisations/global_ai_regulation_map.html)
+![Global AI Regulation Divergence Index — World Map](visualisations/map_preview.png)
 
 ## Overview
 Primary research project scoring 30 countries across 6 regions against 8 AI 
