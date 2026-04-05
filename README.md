@@ -62,7 +62,7 @@ Python (pandas · plotly) · Tableau Public · GitHub
 - [x] Interactive choropleth world map — published
 - [x] Jupyter notebook — documented with markdown
 - [x] Tableau dashboard — published April 2026
-- [ ] LinkedIn post — coming soon
+- [x] LinkedIn post — published April 2026
 
 ## About
 Angkuran Dey · Google Data Analytics Professional Certificate (March 2026)  
